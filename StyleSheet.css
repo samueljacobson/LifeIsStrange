@@ -1,4 +1,8 @@
-﻿﻿/*Header styling*/
+﻿/*General styling (added last)*/﻿
+body {
+    background-color:#FFF6F0;
+ }
+/*Header styling*/
 #logoImage {
     width:200px;
 }
@@ -28,4 +32,9 @@ nav#navvy.navbar.navbar-static-top {
 }
 h1.container#trailer {
     text-align:right;
+}
+
+/*Preview section styling*/
+.previews {
+    margin:auto;
 }
