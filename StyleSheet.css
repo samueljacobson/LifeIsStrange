@@ -20,3 +20,12 @@ nav#navvy.navbar.navbar-static-top {
 #navvy a:hover {
     background:none;    /*No change when hovering*/
 }
+
+/*Trailer section styling*/
+.mainSec {
+    background-image:url('Images/junkyard.jpg');
+    background-size:cover;
+}
+h1.container#trailer {
+    text-align:right;
+}
