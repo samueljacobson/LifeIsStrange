@@ -8,3 +8,15 @@ div.page-header {
     padding-top:3px;
     margin-bottom:0px;
 }
+
+/*Navbar styling*/
+nav#navvy.navbar.navbar-static-top {
+    margin-bottom:0px;
+    background-color:#6A1525;
+}
+#navvy a {          /*Links within navbar*/
+    color:#FFF6F0;
+}
+#navvy a:hover {
+    background:none;    /*No change when hovering*/
+}
