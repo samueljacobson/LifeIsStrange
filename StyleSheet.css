@@ -20,3 +20,10 @@ nav#navvy.navbar.navbar-static-top {
 #navvy a:hover {
     background:none;    /*No change when hovering*/
 }
+/*Hamburger Button*/
+button.navbar-toggle {
+    border:1px solid #FFF6F0;
+}
+span.icon-bar {
+    border:1px solid #FFF6F0;
+}
