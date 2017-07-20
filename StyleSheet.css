@@ -36,5 +36,13 @@ h1.container#trailer {
 
 /*Preview section styling*/
 .previews {
-    margin:auto;
+    margin: auto;
+}
+
+/*Hamburger Button*/
+button.navbar-toggle {
+    border:1px solid #FFF6F0;
+}
+span.icon-bar {
+    border:1px solid #FFF6F0;
 }
